@@ -1,0 +1,15 @@
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\Unit Tests.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\Unit Tests.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\API handler.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\Diction.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\Network.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\PreSorting.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\User Interface.exe
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\API handler.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\Diction.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\Network.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\PreSorting.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Release\User Interface.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\obj\Release\Unit Tests.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\obj\Release\Unit Tests.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\obj\Release\Unit Tests.pdb

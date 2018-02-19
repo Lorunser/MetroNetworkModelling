@@ -1,0 +1,27 @@
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\PreSorting\bin\Debug\PreSorting.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\PreSorting\bin\Debug\PreSorting.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\PreSorting\bin\Debug\Dictionary.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\PreSorting\bin\Debug\Dictionary.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\PreSorting\obj\Debug\PreSorting.csprojResolveAssemblyReference.cache
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\PreSorting\obj\Debug\PreSorting.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\PreSorting\obj\Debug\PreSorting.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\PreSorting\bin\Debug\API handler.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\PreSorting\bin\Debug\API handler.pdb
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Debug\PreSorting.dll
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Debug\PreSorting.pdb
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Debug\API handler.dll
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Debug\API handler.pdb
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\obj\Debug\PreSorting.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\obj\Debug\PreSorting.dll
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\obj\Debug\PreSorting.pdb
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Debug\Diction.dll
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Debug\Diction.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Debug\PreSorting.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Debug\PreSorting.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Debug\API handler.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Debug\Diction.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Debug\API handler.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Debug\Diction.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\obj\Debug\PreSorting.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\obj\Debug\PreSorting.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\obj\Debug\PreSorting.pdb

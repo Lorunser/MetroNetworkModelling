@@ -1,0 +1,12 @@
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Dictionary\bin\Debug\Dictionary.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Dictionary\obj\Debug\Dictionary.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Dictionary\bin\Debug\Diction.dll
+C:\Users\ltray\Documents\Computing\Project Code\Dictionary\bin\Debug\Diction.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Dictionary\obj\Debug\Diction.dll
+C:\Users\ltray\Documents\Computing\Project Code\Dictionary\obj\Debug\Diction.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\Dictionary\bin\Debug\Diction.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\Dictionary\bin\Debug\Diction.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\Dictionary\obj\Debug\Diction.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\Dictionary\obj\Debug\Diction.pdb

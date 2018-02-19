@@ -1,0 +1,74 @@
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\User Interface.exe.config
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\User Interface.csprojResolveAssemblyReference.cache
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\MainWindow.g.cs
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\App.g.cs
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\User Interface_MarkupCompile.cache
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\User Interface_MarkupCompile.lref
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\User Interface.exe
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\User Interface.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\MainWindow.baml
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\User Interface.g.resources
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\User_Interface.Properties.Resources.resources
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\User Interface.csproj.GenerateResource.Cache
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\User Interface.exe
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\obj\Debug\User Interface.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\Processing.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\Dictionary.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\PreSorting.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\Network.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\API handler.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\Processing.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\Dictionary.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\PreSorting.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\Network.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\API handler.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\User Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\User Interface.exe.config
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\User Interface.exe
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\User Interface.pdb
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\User Interface.exe
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\User Interface.pdb
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\API handler.dll
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\Network.dll
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\PreSorting.dll
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\API handler.pdb
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\Network.pdb
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\PreSorting.pdb
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\User Interface.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\MainWindow.g.cs
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\App.g.cs
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\User Interface_MarkupCompile.cache
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\User Interface_MarkupCompile.lref
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\MainWindow.baml
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\User Interface.g.resources
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\User_Interface.Properties.Resources.resources
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\obj\Debug\User Interface.csproj.GenerateResource.Cache
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\Diction.dll
+C:\Users\ltray\Documents\Computing\Project Code\User Interface\bin\Debug\Diction.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\User Interface.exe.config
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\User Interface.exe
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\User Interface.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\User Interface.exe
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\User Interface.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\API handler.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\Diction.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\Network.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\PreSorting.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\API handler.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\Diction.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\Network.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\PreSorting.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\User Interface.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\MainWindow.g.cs
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\App.g.cs
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\User Interface_MarkupCompile.cache
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\User Interface_MarkupCompile.lref
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\MainWindow.baml
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\User Interface.g.resources
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\User_Interface.Properties.Resources.resources
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\User Interface\obj\Debug\User Interface.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Release\PreSorting.dll
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Release\PreSorting.pdb
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Release\API handler.dll
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Release\Diction.dll
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Release\API handler.pdb
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\bin\Release\Diction.pdb
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\obj\Release\PreSorting.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\obj\Release\PreSorting.dll
+C:\Users\ltray\Documents\Computing\Project Code\PreSorting\obj\Release\PreSorting.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Release\PreSorting.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Release\PreSorting.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Release\API handler.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Release\Diction.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Release\API handler.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\bin\Release\Diction.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\obj\Release\PreSorting.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\obj\Release\PreSorting.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\PreSorting\obj\Release\PreSorting.pdb

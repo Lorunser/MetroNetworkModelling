@@ -1,0 +1,25 @@
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Unit Tests\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Unit Tests\bin\Debug\Unit Tests.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Unit Tests\bin\Debug\Unit Tests.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Unit Tests\bin\Debug\Dictionary.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Unit Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Unit Tests\bin\Debug\PreSorting.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Unit Tests\bin\Debug\Dictionary.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Unit Tests\bin\Debug\PreSorting.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Unit Tests\obj\Debug\Unit Tests.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\Unit Tests\obj\Debug\Unit Tests.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\obj\Debug\Unit Tests.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\obj\Debug\Unit Tests.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\Unit Tests.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\Unit Tests.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\PreSorting.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\PreSorting.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\API handler.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\Network.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\User Interface.exe
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\API handler.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\Network.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\User Interface.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\Diction.dll
+C:\Users\ltray\Documents\Computing\Project Code\Unit Tests\bin\Debug\Diction.pdb

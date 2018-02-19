@@ -1,0 +1,10 @@
+C:\Users\ltray\Documents\Computing\Project Code\Dictionary\bin\Release\Diction.dll
+C:\Users\ltray\Documents\Computing\Project Code\Dictionary\bin\Release\Diction.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Dictionary\obj\Release\Diction.dll
+C:\Users\ltray\Documents\Computing\Project Code\Dictionary\obj\Release\Diction.pdb
+C:\Users\ltray\Documents\Computing\Project Code\Dictionary\obj\Release\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\Dictionary\bin\Release\Diction.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\Dictionary\bin\Release\Diction.pdb
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\Dictionary\obj\Release\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\Dictionary\obj\Release\Diction.dll
+C:\Users\ltray\Documents\SPS\Computing\A-Level Project\Project Code\Dictionary\obj\Release\Diction.pdb

@@ -1,0 +1,90 @@
+﻿<!-- xaml definition of main window -->
+    <Window x:Class="User_Interface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:User_Interface"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        Icon="MNM.JPG"      
+        >
+
+    <Window.Resources>
+        <SolidColorBrush Color = "CornflowerBlue" x:Key = "MainColour"/>
+
+        <Style x:Key = "ButtonStyle" TargetType="Button">
+            <Setter Property = "Height" Value = "30"/>
+            <Setter Property = "Foreground" Value = "Black"/>
+            <Setter Property = "FontSize" Value = "12"/>
+            <Setter Property = "Margin" Value = "5"/>
+            <Setter Property= "Cursor" Value="Hand"/>
+
+            <Style.Triggers>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Foreground" Value="Gray"/>
+                </Trigger>
+            </Style.Triggers>
+
+        </Style>
+
+        <Style x:Key ="TextBoxStyle" TargetType="TextBox">
+            <Setter Property = "Height" Value = "30"/>
+            <Setter Property = "Foreground" Value = "Black"/>
+            <Setter Property = "FontSize" Value = "12"/>
+            <Setter Property = "Margin" Value = "5"/>
+        </Style>
+
+        <Style x:Key="ComboBoxStyle" TargetType="ComboBox">
+            <Setter Property = "Height" Value = "30"/>
+            <Setter Property = "Foreground" Value = "Black"/>
+            <Setter Property = "FontSize" Value = "12"/>
+            <Setter Property = "Margin" Value = "5"/>
+            <Setter Property= "Cursor" Value="Hand"/>
+        </Style>
+
+        <Style x:Key="ListBoxStyle" TargetType="ListBox">
+            <Setter Property="Height" Value="70"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+        <Style x:Key="ProgressBarStyle" TargetType="ProgressBar">
+            <Setter Property="Height" Value="10" />
+            <Setter Property="Foreground" Value="Green"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+        <Style x:Key="CanvasStyle" TargetType="Canvas">
+        </Style>
+
+        <Style x:Key="SliderStyle" TargetType="Slider">
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid x:Name="grid" Margin="5">
+            <Canvas Name="TubeMap" MinWidth="1190" MaxWidth="1190" Cursor="Arrow" VerticalAlignment="Stretch" Background="White" HorizontalAlignment="Left">
+                <Label Name="CanvasLabel" Content="Station" Canvas.Right="10" Canvas.Bottom="10" Width="232" HorizontalContentAlignment="Center"/>
+            </Canvas>
+
+            <StackPanel Name="sideBarA" Background="{DynamicResource MainColour}" Margin="1200,0,0,0">
+                <Button Name="LoadButton" Content="Load File" Style="{StaticResource ButtonStyle}" Click="LoadButton_Click"/>
+                <ComboBox Name="ComboBoxA" Style="{StaticResource ComboBoxStyle}" SelectionChanged="ComboBoxA_SelectionChanged" />
+                <ComboBox Name="ComboBoxB" Style="{StaticResource ComboBoxStyle}" SelectionChanged="ComboBoxB_SelectionChanged" />
+                <Button Name="CutButton" Content="Cut Edge" Style="{StaticResource ButtonStyle}" Click="CutButton_Click"/>
+                <ListBox Name="CutStationsListBox" Style="{StaticResource ListBoxStyle}" Height="200" Margin="5,5,4.8,5" />
+                <Button Name="RunButton" Content="Run" Style="{StaticResource ButtonStyle}" Click="RunButton_Click"/>
+                <ProgressBar Name="StatusSoFar" Style="{StaticResource ProgressBarStyle}" />
+            </StackPanel>
+
+            <StackPanel Name="SideBarB" Background="{DynamicResource MainColour}" Visibility="Hidden" Margin="1200,0,0,0">
+                <Button Name="RestartButton" Content="Restart" Style="{StaticResource ButtonStyle}" FontWeight="Bold" RenderTransformOrigin="0.502,0.5" Click="RestartButton_Click"/>
+                <Button Name="SaveImages" Content="Save Images" Style="{StaticResource ButtonStyle}" Click="SaveImages_Click"/>
+                <TextBox Name="TimeBox" Style="{StaticResource TextBoxStyle}" Text="12:00" IsReadOnly="True" TextAlignment="Center"/>
+                <Slider Name="TimeSlider" Style="{StaticResource SliderStyle}" ValueChanged="TimeSlider_ValueChanged" Maximum="143" TickFrequency="1" IsSnapToTickEnabled="True"/>
+            </StackPanel>
+    </Grid>
+</Window>

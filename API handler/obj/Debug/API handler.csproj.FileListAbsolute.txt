@@ -1,0 +1,18 @@
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\API handler\obj\Debug\API handler.csprojResolveAssemblyReference.cache
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\API handler\bin\Debug\API handler.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\API handler\bin\Debug\API handler.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\API handler\bin\Debug\Dictionary.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\API handler\bin\Debug\Dictionary.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\API handler\obj\Debug\API handler.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\API handler\obj\Debug\API handler.pdb
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\API handler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lawrence\Documents\Computing\Project\Project Code\API handler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ltray\Documents\Computing\Project Code\API handler\bin\Debug\API handler.dll
+C:\Users\ltray\Documents\Computing\Project Code\API handler\bin\Debug\API handler.pdb
+C:\Users\ltray\Documents\Computing\Project Code\API handler\bin\Debug\Dictionary.dll
+C:\Users\ltray\Documents\Computing\Project Code\API handler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ltray\Documents\Computing\Project Code\API handler\bin\Debug\Dictionary.pdb
+C:\Users\ltray\Documents\Computing\Project Code\API handler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ltray\Documents\Computing\Project Code\API handler\obj\Debug\API handler.csprojResolveAssemblyReference.cache
+C:\Users\ltray\Documents\Computing\Project Code\API handler\obj\Debug\API handler.dll
+C:\Users\ltray\Documents\Computing\Project Code\API handler\obj\Debug\API handler.pdb
